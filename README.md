@@ -15,7 +15,7 @@ across 5 branches to identify key factors driving placement success.
 - Excel Formulas (AVERAGEIF, AVERAGEIFS, COUNTIF, INDEX+MATCH)
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 ## 🔑 Key Findings
 
